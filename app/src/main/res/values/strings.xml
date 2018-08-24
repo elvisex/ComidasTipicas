@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Comidas Tipicas</string>
+    <string name="paisTextViiew" >Brasil</string>
+    <string name="pratoTextView">Feijuca</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paisTextViiew">Italia</string>
+    <string name="pratoTextView" >Pizza</string>
+    <string name="app_name">Pasti tipici</string>
+</resources>
